@@ -9,13 +9,58 @@
   
 ## 📖 Explication
 
-  
+The algorithm simulates the creation of a Chicken and HenHouse (2d Matrix), we will set the initial position and the total steps of the chicken,
+next the chicken will "walk" in the HenHouse in spiral way based on the total steps and its initial position. 
+
+Example:
+
+Chicken with start position (5,5), 31 total steps and start facing north. 
+HenHouse with size(25,25).
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 1 1 1 1 1 0 0 0 0 0 0
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+0 0 0 1 1 <span style="color:blue">1</span> 1 1 0 0 0 0 0 0 0
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+<hr>
+
+Chicken1 with start position (5,5), 31 total steps and start facing north. 
+Chicken2 with start position (9,9), 31 total steps and start facing north. 
+HenHouse with size(25,25).
+
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 
+0 0 0 1 1 <span style="color:blue">1</span> 1 1 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 2 1 1 1 1 1 0 0
+0 0 0 1 1 1 1 2 1 1 1 1 0 0 0
+0 0 0 0 0 0 0 1 1 1 1 1 0 0 0
+0 0 0 0 0 0 0 1 1 <span style="color:blue">1</span> 1 1 0 0 0
+0 0 0 0 0 0 0 1 1 1 1 1 0 0 0
+0 0 0 0 0 0 0 1 1 1 1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
 ## 🧑‍💻 Author
 
 **Gustavo Ramirez**
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-andres-ramirez-lopez-5612861b5/)
-- [Email](mailto:gustavoramirez2002l@gmail.com?subject=Hi "gustavoramirez2002l@gmail.com")
+- [Email](mailto:garamirezl@outlook.com?subject=Hi "garamirezl@outlook.com")
 - [Whatssapp](https://api.whatsapp.com/send/?phone=573014477647&text&app_absent=0 "+57 3014477647")
 - [Download CV](https://drive.google.com/drive/folders/15o-IO3bhsQUoVHLTAew68Fczf9nk9RwF?usp=sharing)
   
@@ -26,7 +71,7 @@ I am Gustavo Ramirez, I characterize myself as a reliable, honest person and cap
 ## ⌨️ More repositories 
   
 - [Javascript Projects](https://github.com/Jungdrew/JsProjects)
-  
+
   
 ## 🤝 Support
 

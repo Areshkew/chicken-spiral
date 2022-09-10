@@ -1,0 +1,17 @@
+[
+{
+  "directory": "G:/Desarrollo/Algoritmos/Chicken-Remastered/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\Chicken-Remastered.dir\\main.cpp.obj -c G:\\Desarrollo\\Algoritmos\\Chicken-Remastered\\main.cpp",
+  "file": "G:/Desarrollo/Algoritmos/Chicken-Remastered/main.cpp"
+},
+{
+  "directory": "G:/Desarrollo/Algoritmos/Chicken-Remastered/build/src/Chicken",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\chicken.dir\\chicken.cpp.obj -c G:\\Desarrollo\\Algoritmos\\Chicken-Remastered\\src\\Chicken\\chicken.cpp",
+  "file": "G:/Desarrollo/Algoritmos/Chicken-Remastered/src/Chicken/chicken.cpp"
+},
+{
+  "directory": "G:/Desarrollo/Algoritmos/Chicken-Remastered/build/src/HenHouse",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\henhouse.dir\\henhouse.cpp.obj -c G:\\Desarrollo\\Algoritmos\\Chicken-Remastered\\src\\HenHouse\\henhouse.cpp",
+  "file": "G:/Desarrollo/Algoritmos/Chicken-Remastered/src/HenHouse/henhouse.cpp"
+}
+]
